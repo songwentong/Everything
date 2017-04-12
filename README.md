@@ -1,2 +1,2 @@
 # Everything
-everything else
+everything
